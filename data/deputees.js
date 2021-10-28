@@ -900,7 +900,7 @@ exports.deputees = [
     mail: 'info@dunja-wolff.de',
   },
   {
-    constituencyID: 1001,
+    constituencyID: '1001',
     resultYes: 0.635,
     resultNo: 0.324,
     gender: 'male',
@@ -915,7 +915,7 @@ exports.deputees = [
     mail: 'afd.lindemann@yahoo.de',
   },
   {
-    constituencyID: 1002,
+    constituencyID: '1002',
     resultYes: 0.562,
     resultNo: 0.377,
     gender: 'female',
@@ -930,7 +930,7 @@ exports.deputees = [
     mail: 'buero@dr-manuela-schmidt.de',
   },
   {
-    constituencyID: 1003,
+    constituencyID: '1003',
     resultYes: 0.561,
     resultNo: 0.305,
     gender: 'female',
@@ -945,7 +945,7 @@ exports.deputees = [
     mail: 'j.auricht@afd-berlin.eu',
   },
   {
-    constituencyID: 1004,
+    constituencyID: '1004',
     resultYes: 0.527,
     resultNo: 0.423,
     gender: 'male',
@@ -960,7 +960,7 @@ exports.deputees = [
     mail: 'buero@christian-graeff.de',
   },
   {
-    constituencyID: 1005,
+    constituencyID: '1005',
     resultYes: 0.453,
     resultNo: 0.512,
     gender: 'female',
@@ -975,7 +975,7 @@ exports.deputees = [
     mail: 'post@kgwberlin.de',
   },
   {
-    constituencyID: 1006,
+    constituencyID: '1006',
     resultYes: 0.596,
     resultNo: 0.36,
     gender: 'male',
@@ -990,7 +990,7 @@ exports.deputees = [
     mail: 'post@alexander-j-herrmann.de',
   },
   {
-    constituencyID: 1101,
+    constituencyID: '1101',
     resultYes: 0.578,
     resultNo: 0.372,
     gender: 'male',
@@ -1005,7 +1005,7 @@ exports.deputees = [
     mail: 'buergerbuero@danny-freymark.de',
   },
   {
-    constituencyID: 1102,
+    constituencyID: '1102',
     resultYes: 0.574,
     resultNo: 0.385,
     gender: 'male',
@@ -1020,7 +1020,7 @@ exports.deputees = [
     mail: 'martin.paetzold@cdu-lichtenberg.de',
   },
   {
-    constituencyID: 1103,
+    constituencyID: '1103',
     resultYes: 0.61,
     resultNo: 0.347,
     gender: 'female',
@@ -1035,7 +1035,7 @@ exports.deputees = [
     mail: 'info@claudia-engelmann.eu',
   },
   {
-    constituencyID: 1104,
+    constituencyID: '1104',
     resultYes: 0.655,
     resultNo: 0.31,
     gender: 'male',
@@ -1050,7 +1050,7 @@ exports.deputees = [
     mail: 'schluesselburg.wkb@linksfraktion.berlin',
   },
   {
-    constituencyID: 1105,
+    constituencyID: '1105',
     resultYes: 0.672,
     resultNo: 0.293,
     gender: 'female',
@@ -1065,7 +1065,7 @@ exports.deputees = [
     mail: 'team@hendrikjeklein.de',
   },
   {
-    constituencyID: 1106,
+    constituencyID: '1106',
     resultYes: 0.563,
     resultNo: 0.384,
     gender: 'male',
@@ -1080,7 +1080,7 @@ exports.deputees = [
     mail: 'buergerbuero@andreas-geisel.de',
   },
   {
-    constituencyID: 1201,
+    constituencyID: '1201',
     resultYes: 0.61,
     resultNo: 0.356,
     gender: 'female',
@@ -1095,7 +1095,7 @@ exports.deputees = [
     mail: 'info@bettina-koenig.de',
   },
   {
-    constituencyID: 1202,
+    constituencyID: '1202',
     resultYes: 0.517,
     resultNo: 0.423,
     gender: 'male',
@@ -1110,7 +1110,7 @@ exports.deputees = [
     mail: 'info@joerg-stroedter.de',
   },
   {
-    constituencyID: 1203,
+    constituencyID: '1203',
     resultYes: 0.561,
     resultNo: 0.385,
     gender: 'male',
@@ -1125,7 +1125,7 @@ exports.deputees = [
     mail: 'buero@stephan-schmidt.berlin',
   },
   {
-    constituencyID: 1204,
+    constituencyID: '1204',
     resultYes: 0.439,
     resultNo: 0.465,
     gender: 'male',
@@ -1140,7 +1140,7 @@ exports.deputees = [
     mail: 'wohlert@cdu-reinickendorf.de',
   },
   {
-    constituencyID: 1205,
+    constituencyID: '1205',
     resultYes: 0.514,
     resultNo: 0.421,
     gender: 'male',
@@ -1155,7 +1155,7 @@ exports.deputees = [
     mail: 'wahlkreis@michaeldietmann.de',
   },
   {
-    constituencyID: 1206,
+    constituencyID: '1206',
     resultYes: 0.321,
     resultNo: 0.621,
     gender: 'male',
