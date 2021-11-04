@@ -937,7 +937,7 @@ exports.deputees = [
     title: '',
     familyName: 'Spranger',
     surname: 'Iris',
-    party: 'AfD',
+    party: 'SPD',
     resultDeputee: 0.22,
     addressee: 'Bürgerbüro Iris Spranger',
     street: 'Köpenicker Straße 25',
